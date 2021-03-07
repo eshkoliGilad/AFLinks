@@ -5,3 +5,5 @@ https://vinid.onelink.me/T5wk?pid=Facebook&c=FB_FVD_200201000d075_05112020_TQ_An
 
 https://app.appsflyer.com/id0507721514?pid=appsflyer_sdk_test_int&c=idfaTestRun0A&idfa=227212AF-3F58-4E98-85B4-594B7ED0F6E6
 
+https://subs.getfitapps.com/diet1/app-clip
+
