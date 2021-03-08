@@ -7,3 +7,4 @@ https://app.appsflyer.com/id0507721514?pid=appsflyer_sdk_test_int&c=idfaTestRun0
 
 https://subs.getfitapps.com/diet1/app-clip
 
+https://getfitapps.onelink.me/0JcH/4da85de4
