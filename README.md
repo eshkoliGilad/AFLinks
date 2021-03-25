@@ -10,3 +10,5 @@ https://app.appsflyer.com/com.example.demoap?pid=appsflyer_sdk_test_int&c=idfaTe
 https://subs.getfitapps.com/diet1/app-clip
 
 https://getfitapps.onelink.me/0JcH/4da85de4
+
+https://giladtestmargot.onelink.me/oKfA/18a397bc
