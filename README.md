@@ -11,4 +11,4 @@ https://subs.getfitapps.com/diet1/app-clip
 
 https://getfitapps.onelink.me/0JcH/4da85de4
 
-https://giladtestmargot.onelink.me/oKfA/18a397bc
+https://giladtestmargot.onelink.me/oKfA/18a397bc&is_retargeting=TRUE
