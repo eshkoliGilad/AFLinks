@@ -12,3 +12,5 @@ https://subs.getfitapps.com/diet1/app-clip
 https://getfitapps.onelink.me/0JcH/4da85de4
 
 https://giladtestmargot.onelink.me/oKfA/18a397bc&is_retargeting=TRUE
+
+https://sportbild.onelink.me/zyRE?pid=Facebook_Test&c=Sport_BILD__App_Installs_iPhone_74986560&idfa=227212AF-3F58-4E98-85B4-594B7ED0F6E6
