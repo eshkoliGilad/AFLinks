@@ -21,6 +21,13 @@ https://giladtestmargot.onelink.me/oKfA/18a397bc
 
 
 
+1. https://giladtestmargot.onelink.me/oKfA/smartlink?c=without_deeplink
+2. https://giladtestmargot.onelink.me/oKfA/smartlink?c=with_deeplink&af_dp=sberbankonline%3A%2F%2F
+3. https://giladtestmargot.onelink.me/oKfA/invsaving?af_adset=insavings_short_url
 
-https://giladtestmargot.onelink.me/oKfA?pid=invsaving-website&c=invsaving-website&is_retargeting=true&af_dp=sberbankonline%3A%2F%2Finvestments%2Ftm%2Fproduct%2Fcard%3FproductCode%3Diia_saving&af_adset=insaving_long_url
+4. https://giladtestmargot.onelink.me/oKfA?pid=invsaving-website&c=invsaving-website&is_retargeting=true&af_dp=sberbankonline%3A%2F%2Finvestments%2Ftm%2Fproduct%2Fcard%3FproductCode%3Diia_saving&af_adset=insaving_long_url
+
+5. https://giladtestmargot.onelink.me/oKfA/invsaving?af_dp=sberbankonline%3A%2F%2Finvestments%2Ftm%2Fproduct%2Fcard%3FproductCode%3Diia_saving&af_adset=insaving_short_with_deeplink
+
+
 
