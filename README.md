@@ -29,5 +29,5 @@ https://giladtestmargot.onelink.me/oKfA/18a397bc
 
 5. https://giladtestmargot.onelink.me/oKfA/invsaving?af_dp=sberbankonline%3A%2F%2Finvestments%2Ftm%2Fproduct%2Fcard%3FproductCode%3Diia_saving&af_adset=insaving_short_with_deeplink
 
-
+https://amamed.onelink.me/61S4?pid=QR_code&c=new_test&af_dp=amamed%3A%2F%2F&af_web_dp[…]2F%2Fwww.amamed.de&is_retargeting=true&deep_link_value=21664
 
