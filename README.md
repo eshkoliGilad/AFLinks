@@ -31,3 +31,4 @@ https://giladtestmargot.onelink.me/oKfA/18a397bc
 
 https://amamed.onelink.me/61S4?pid=QR_code&c=new_test&af_dp=amamed%3A%2F%2F&af_web_dp[…]2F%2Fwww.amamed.de&is_retargeting=true&deep_link_value=21664
 
+https://testflight.apple.com/join/meaDCNMP
