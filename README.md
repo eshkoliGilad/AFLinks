@@ -34,3 +34,5 @@ https://amamed.onelink.me/61S4?pid=QR_code&c=new_test&af_dp=amamed%3A%2F%2F&af_w
 https://testflight.apple.com/join/meaDCNMP
 
 https://olimpbet.onelink.me/2CrH/6273b411
+
+https://gummydrop.onelink.me/yoMt/f2cbcf3b
