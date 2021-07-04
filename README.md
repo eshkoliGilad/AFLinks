@@ -21,7 +21,7 @@ https://giladtestmargot.onelink.me/oKfA/18a397bc
 
 
 
-1. https://giladtestmargot.onelink.me/oKfA/smartlink?c=without_deeplink
+1. https://giladtestmargot.onelink.me/oKfA/pid=suzy&af_web_dp=https%3A%2F%2Fwww.crowdtap.com&deep_link_value=rewards&c=TestingRewards&af_dp=crowdtap%3A%2F%2F&af_force_deeplink=true&page=rewards
 2. https://giladtestmargot.onelink.me/oKfA/smartlink?c=with_deeplink&af_dp=sberbankonline%3A%2F%2F
 3. https://giladtestmargot.onelink.me/oKfA/invsaving?af_adset=insavings_short_url
 
