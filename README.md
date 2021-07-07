@@ -19,6 +19,8 @@ https://sportbild.onelink.me/zyRE?pid=Facebook_Test&c=Sport_BILD__App_Installs_i
 
 https://giladtestmargot.onelink.me/oKfA/18a397bc
 
+https://giladtestmargot.onelink.me/oKfA/18a397bc?redemptionCode=MmQiFjOK
+
 
 
 1. https://giladtestmargot.onelink.me/oKfA?pid=suzy&af_web_dp=https%3A%2F%2Fwww.crowdtap.com&deep_link_value=rewards&c=TestingRewards&af_dp=crowdtap%3A%2F%2F&af_force_deeplink=true&page=rewards
