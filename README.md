@@ -38,3 +38,5 @@ https://testflight.apple.com/join/meaDCNMP
 https://olimpbet.onelink.me/2CrH/6273b411
 
 https://gummydrop.onelink.me/yoMt/f2cbcf3b
+
+giladtestmargot://test=wer&c=12345
