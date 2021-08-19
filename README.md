@@ -11,7 +11,9 @@ https://subs.getfitapps.com/diet1/app-clip
 
 https://getfitapps.onelink.me/0JcH/4da85de4
 
+https://dignisi.me/sUqp/18266c6e
 
+https://dignisi.me/sUqp?pid=test&c=test2&deep_link_value=norakaruyc&af_sub1=96&af_web_dp=https%3A%2F%2Fapp.dignisi.am%2Fdownload_dignisi%3Fref%3Dappsflyer
 
 https://giladtestmargot.onelink.me/oKfA?af_force_deeplink=true&pid=AppsflyerTest&c=c1&is_retargeting=true&af_dp=sberbankonline%3A%2F%2Foffers%2Fstory%3FcampaignId%3D17547%26creativeId%3D67813%26external_source%3Dncls_sbol-_-mgm_cc_dec20-_-131032953-_--_-&af_sub1=ncls_sbol&af_sub2=mgm_cc_dec20&af_sub3=131032953
 
