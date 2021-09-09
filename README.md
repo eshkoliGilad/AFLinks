@@ -22,3 +22,4 @@ https://whitecoat_id.onelink.me/
 https://whitecoat.onelink.me/bzNM/singteltrial
 
 
+https://whcapi.whitecoat.global/v1/open-whitecoat
