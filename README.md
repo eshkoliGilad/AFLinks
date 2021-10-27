@@ -29,3 +29,5 @@ https://whcapi.whitecoat.global/v1/open-whitecoat
 https://e2e.onelink.me/Ky54/IG
 
 https://creatives-cdn.appsflyer.com/crt-aecd0ccf-0398-43f4-810c-db23831cc6451
+
+https://lifa.onelink.me/AdfR/515dad80
