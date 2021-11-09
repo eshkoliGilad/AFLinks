@@ -31,3 +31,14 @@ https://e2e.onelink.me/Ky54/IG
 https://creatives-cdn.appsflyer.com/crt-aecd0ccf-0398-43f4-810c-db23831cc6451
 
 https://lifa.onelink.me/AdfR/515dad80
+
+
+
+
+https://app.appsflyer.com/com.example.demoapp?pid%3Dappsflyer_sdk_test_int%26is_retargeting%3Dtrue%26clickid%3De4e98062-b5dd-43eb-aae2-05c170b5c940%26af_dp%3Dgiladtestmargot%253A%252F%252F%26af_force_deeplink%3Dtrue%26advertising_id%3Dfc313568-161b-46e7-97ac-10041d026f6e 
+
+
+https://app.appsflyer.com/com.example.demoapp?pid=appsflyer_sdk_test_int&is_retargeting=true&clickid=e4e98062-b5dd-43eb-aae2-05c170b5c940&af_dp=giladtestmargot%3A%2F%2F&af_force_deeplink=true&advertising_id=fc313568-161b-46e7-97ac-10041d026f6e
+
+https://app.appsflyer.com/com.example.demoapp?pid=appsflyer_sdk_test_int&is_retargeting=true&clickid=e4e98062-b5dd-43eb-aae2-05c170b5c940&af_dp=giladtestmargot://&af_force_deeplink=true&advertising_id=fc313568-161b-46e7-97ac-10041d026f6e
+
