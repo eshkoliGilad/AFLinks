@@ -46,3 +46,6 @@ https://app.appsflyer.com/com.example.demoapp?pid=appsflyer_sdk_test_int&is_reta
 
 https://app.appsflyer.com/com.example.demoapp?pid=appsflyer_sdk_test_int&is_retargeting=true&clickid=e4e98062-b5dd-43eb-aae2-05c170b5c940&af_dp=giladtestmargot://&af_force_deeplink=true&advertising_id=fc313568-161b-46e7-97ac-10041d026f6e
 
+
+
+https://mundijuegos.onelink.me/HGPc/f749db23
