@@ -34,6 +34,10 @@ https://lifa.onelink.me/AdfR/515dad80
 
 
 
+https://giladtestmargot.onelink.me/oKfA?af_force_deeplink=true&pid=loan-website&c=loan-website&is_retargeting=true&af_dp=sberbankonline%3A%2F%2FconsumerLoan%3Fexternal_source%3Dloan-website-_--_--_--_--_--_-827963495.1634724211&af_sub4=-_-&af_sub5=827963495.1634724211
+
+
+
 
 https://app.appsflyer.com/com.example.demoapp?pid%3Dappsflyer_sdk_test_int%26is_retargeting%3Dtrue%26clickid%3De4e98062-b5dd-43eb-aae2-05c170b5c940%26af_dp%3Dgiladtestmargot%253A%252F%252F%26af_force_deeplink%3Dtrue%26advertising_id%3Dfc313568-161b-46e7-97ac-10041d026f6e 
 
