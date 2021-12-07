@@ -1,4 +1,7 @@
 
+https://sberbankonline.onelink.me/46WQ?af_force_deeplink=true&pid=af_test_07&c=bg_no3&is_retargeting=true&af_dp=sberbankonline%3A%2F%2FconsumerLoan%3Fexternal_source%3Dloan-website-_--_--_--_--_--_-827963495.1634724211&af_sub4=-_-&af_sub5=827963495.1634724211
+
+
 https://apps.apple.com/il/app/%D1%81%D0%B1%D0%B5%D1%80%D0%B1%D0%B0%D0%BD%D0%BA-%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD/id492224193
 
 Windows Phone Link - https://awem.onelink.me/E4wE/cb40c822
