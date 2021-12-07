@@ -1,5 +1,5 @@
 
-https://playcircle-stage.onelink.me/H1wu/ae963b0f
+https://apps.apple.com/il/app/%D1%81%D0%B1%D0%B5%D1%80%D0%B1%D0%B0%D0%BD%D0%BA-%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD/id492224193
 
 Windows Phone Link - https://awem.onelink.me/E4wE/cb40c822
 
