@@ -1,5 +1,4 @@
-
-https://sberbankonline.onelink.me/46WQ?af_force_deeplink=true&pid=af_test_07&c=bg_no3&is_retargeting=true&af_dp=sberbankonline%3A%2F%2FconsumerLoan%3Fexternal_source%3Dloan-website-_--_--_--_--_--_-827963495.1634724211&af_sub4=-_-&af_sub5=827963495.1634724211
+https://sberbank-online-alpha.onelink.me/m9bb?af_force_deeplink=true&pid=af_test_07&c=bg_no3&is_retargeting=true&af_dp=sberbankonline%3A%2F%2FconsumerLoan%3Fexternal_source%3Dloan-website-_--_--_--_--_--_-827963495.1634724211&af_sub4=-_-&af_sub5=827963495.1634724211
 
 
 https://apps.apple.com/il/app/%D1%81%D0%B1%D0%B5%D1%80%D0%B1%D0%B0%D0%BD%D0%BA-%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD/id492224193
@@ -40,17 +39,6 @@ https://lifa.onelink.me/AdfR/515dad80
 
 
 
-https://giladtestmargot.onelink.me/oKfA?af_force_deeplink=true&pid=loan-website1&c=loan-websites&is_retargeting=true&af_dp=sberbankonline%3A%2F%2FconsumerLoan%3Fexternal_source%3Dloan-website-_--_--_--_--_--_-827963495.1634724211&af_sub4=-_-&af_sub5=827963495.1634724211
-
-
-
-
-https://app.appsflyer.com/com.example.demoapp?pid%3Dappsflyer_sdk_test_int%26is_retargeting%3Dtrue%26clickid%3De4e98062-b5dd-43eb-aae2-05c170b5c940%26af_dp%3Dgiladtestmargot%253A%252F%252F%26af_force_deeplink%3Dtrue%26advertising_id%3Dfc313568-161b-46e7-97ac-10041d026f6e 
-
-
-https://app.appsflyer.com/com.example.demoapp?pid=appsflyer_sdk_test_int&is_retargeting=true&clickid=e4e98062-b5dd-43eb-aae2-05c170b5c940&af_dp=giladtestmargot%3A%2F%2F&af_force_deeplink=true&advertising_id=fc313568-161b-46e7-97ac-10041d026f6e
-
-https://app.appsflyer.com/com.example.demoapp?pid=appsflyer_sdk_test_int&is_retargeting=true&clickid=e4e98062-b5dd-43eb-aae2-05c170b5c940&af_dp=giladtestmargot://&af_force_deeplink=true&advertising_id=fc313568-161b-46e7-97ac-10041d026f6e
 
 
 
