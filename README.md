@@ -62,4 +62,4 @@ Decoded once -
 
 https://app.appsflyer.com/com.example.demoapp?advertising_id=fc313568-161b-46e7-97ac-10041d026f6e&af_ad=320x480_Recruit+Sumai_151657_html&af_ad_id=b0a01673f7&af_ad_type=interstitial&af_adset=MMP&af_c_id=a1e266368b&af_click_lookback=30d&af_dp=giladtestmargot%3A%2F%2Fsmp.suumo.jp%2Fchintai%2Ftokyo%2Fsc_111%2Fbk_000078200772%3F_xroute%3D2%26_xuid%3Dliftoff%26vos%3Dab42147lfora212313000zzz_h2a0120djw0012&af_inactivity_window=0d&af_ip=1.72.0.244&af_lang=ja&af_model=P30+PRO&af_os=9&af_prt=cyberagent-rin&af_reengagement_window=lifetime&af_ua=Mozilla%2F5.0+%28Linux%3B+Android+9%3B+HW-02L+Build%2FHUAWEIVOG-L0J%3B+wv%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Version%2F4.0+Chrome%2F97.0.4692.98+Mobile+Safari%2F537.36&android_id=&c=+SUUMO+-+JP+-+Android+-+RE+-+PFR&clickid=v.2_g.126594_a.76038d67-9858-49ef-9334-afeb6196c1b6-9078-16a7c_c.36_t.re_u.beb449514128e919&is_retargeting=true&pid=liftoff_int
 
-
+https://linemyshop-alpha.onelink.me/guAn/7337f0ae
