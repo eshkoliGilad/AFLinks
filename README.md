@@ -65,3 +65,6 @@ https://app.appsflyer.com/com.example.demoapp?advertising_id=fc313568-161b-46e7-
 https://linemyshop-alpha.onelink.me/guAn/7337f0ae
 
 https://nike.onelnk.com/3CPe/de15640
+
+
+http://giladtestmargot.onelink.me/oKfA/18a397bc?redemptionCode=MmQiFjOK
