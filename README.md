@@ -18,7 +18,7 @@ https://deeplinkview.onelink.me/7rw6/c5354a56
 
 https://giladtestmargot.onelink.me/oKfA/2e346e07
 
-https://giladtestmargot.onelink.me/oKfA?gbraid=0AAAAADmQ2V2at84yRsp2nx2Kh2wnp2d_a&gclid=Cj0KCQjw4PKTBhD8ARIsAHChzRI1OAogG87qUVoai92tWoCm5e71aolEbEeQnQKxKG_pnWkGgW4W6UgaAlSuEALw_wcB&is_retargeting=true
+https://giladtestmargot.onelink.me/oKfA?gbraid=0AAAAADmQ2V2at84yRsp2nx2Kh2wnp2d_a&gclid=Cj0KCQjw4PKTBhD8ARIsAHChzRI1OAogG87qUVoai92tWoCm5e71aolEbEeQnQKxKG_pnWkGgW4W6UgaAlSuEALw_wcB&is_retargeting=true&deep_link_value=blabla
 
 https://giladtestmargot.onelink.me/oKfA?deep_link_value=PazDimaGilad4
 
