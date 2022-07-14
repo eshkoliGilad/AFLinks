@@ -18,3 +18,4 @@ https://giladtestmargot.onelink.me/oKfA?deep_link_value=PazDimaGilad4
 
 https://uritesting.onelink.me/Zbtk/6wqi4330
 
+https://testflight.apple.com/v1/invite/c6ef22c3529849f1a4864b2336e1ca463de0df9adb884e1d9d9a1d1509202f525dc5ca5e?ct=PY4NN3YLV3&advp=10000&platform=ios
