@@ -21,3 +21,5 @@ https://uritesting.onelink.me/Zbtk/6wqi4330
 
 
 https://hello.hse.de/?link=https://www.hse.de/dpl/nav/streamer/a39361ea-dc23-4c43-80c7-1a0a551dec83/shows?utm_source%3DTikTok%26utm_medium%3Dcpc%26utm_campaign%3Dverenakerth&apn=de.hse.hello&isi=1578890201&ibi=de.hse.next.prod&ifl=https://apps.apple.com/de/app/hse-hello/id1578890201&utm_campaign=verenakerth&utm_medium=cpc&utm_source=Instagram
+
+https://hello.hse.de/
