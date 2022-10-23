@@ -28,3 +28,6 @@ https://hello.hse.de/?link=https://hello.hse.de/dpl/nav/streamer/a39361ea-dc23-4
 
 
 https://kaizentest.onelink.me/c51L?pid=test_apk&c=michal_test
+
+
+https://testflight.apple.com/v1/invite/b10c0ea060964def88f229ef38726c9d361af6654051427f9ca51dfb7bd6dbf8591b3d1b?ct=2MPNWW3RHY&advp=10000&platform=ios
