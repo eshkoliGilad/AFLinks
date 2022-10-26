@@ -34,3 +34,5 @@ https://testflight.apple.com/v1/invite/b10c0ea060964def88f229ef38726c9d361af6654
 
 
 https://g66.onelink.me/ydbp/ik919c3x
+
+https://apps.apple.com/cl/app/global66-env%C3%ADa-dinero-r%C3%A1pido/id1494957339
