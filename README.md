@@ -41,3 +41,9 @@ https://alfagift.id/promotion-products?id=6357a7d38a3ba92cd975a415
 
 
 https://seekrecs.onelink.me/Ate8/1f1rhu42?deep_link_value=rec_details&deep_link_sub1=xIUsVzS5yqsyK15mhS2T&referrer_id=03e84aab-ab0d-49a4-bc03-3feb66892a50
+
+
+
+
+
+https://giladtestmargot.onelink.me/oKfA?pid=testOrly&c=AsafTheKing&is_retargeting=true
