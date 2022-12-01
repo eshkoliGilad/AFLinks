@@ -46,4 +46,4 @@ https://seekrecs.onelink.me/Ate8/1f1rhu42?deep_link_value=rec_details&deep_link_
 
 
 
-https://giladtestmargot.onelink.me/oKfA?pid=testOrly&c=AsafTheKing&is_retargeting=true
+https://giladtestmargot.onelink.me/oKfA?pid=testOrly&c=AsafTheKing
