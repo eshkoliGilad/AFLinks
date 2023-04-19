@@ -1,4 +1,7 @@
 
+https://my-adot.onelink.me/MAbS?pid=moloco_int&deep_link_value=skt.adot%253A%252F%252Fhome%252Fnotifications&is_retargeting=true&af_dp=skt.adot%3A%2F%2F&af_reengagement_window=30d&af_inactivity_window=7d&af_click_lookback=7d&advertising_id=4b714b0b-c9e3-41ed-abf4-10a060455e68&af_ua=Mozilla%2F5.0%20%28Linux%3B%20Android%2012%3B%20SM-S906N%20Build%2FQP1A.190711.020%3B%20wv%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Version%2F4.0%20Chrome%2F80.0.3
+
+
 https://edamama.onelink.me/SyGn/o61a50zi
 
 https://giladtestmargot.onelink.me/oKfA?af_dp=edamama://
