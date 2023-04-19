@@ -75,6 +75,4 @@ https://seekrecs.onelink.me/Ate8/1f1rhu42?deep_link_value=rec_details&deep_link_
 
 
 
-
-
-https://giladtestmargot.onelink.me/oKfA?pid=testOrly&c=AsafTheKing
+https://app.appsflyer.com/com.academy.demo?pid=academy_media_source&c=academy_campaign&advertising_id=16686d62-cd37-4d16-8a16-701d239c56a3
