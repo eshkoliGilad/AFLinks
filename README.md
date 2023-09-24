@@ -8,4 +8,6 @@ https://giladtestmargot.onelink.me/oKfA?gbraid=0AAAAADmQ2V2at84yRsp2nx2Kh2wnp2d_
 
 https://giladtestmargot.onelink.me/oKfA?deep_link_value=PazDimaGilad4
 
+https://testflight.apple.com/join/gQZOsebn
+
 
