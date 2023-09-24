@@ -13,4 +13,5 @@ https://testflight.apple.com/join/gQZOsebn
 
 https://very-shoppingapp.onelink.me/k1pF/ckuksqf2
 
+https://test-very.onelink.me/404P/rmshmhb2
 
