@@ -1,6 +1,8 @@
 
 https://giladtestmargot.onelink.me/oKfA/ivu5dict
 
+http://universal-test.afsdktests.com/oKfA/ivu5dict
+
 https://giladtestmargot.onelink.me/oKfA/ivu5dicy
 
 
