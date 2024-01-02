@@ -5,7 +5,7 @@ https://solitaire-harvest.onelink.me/EWfb?pid=deeplink&c=test&af_dp=supertreatso
 
 https://giladtestmargot.onelink.me/oKfA/i0tn2t8l -- my link, Have af_dp (giladtestmargot://)
 
-https://testing-without-uri.onelink.me/Ai6O/nuv6cddx -- my link,  Doesn't Have af_dp
+https://testing-without-uri.onelink.me/Ai6O/nuv6cddx -- my link,  Doesn't Have af_dp, working properly
 
 
 
